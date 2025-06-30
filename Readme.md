@@ -89,7 +89,14 @@ cd your-repo-name
 - **Write File:** Send a write request with the file path and content to the NM.
 - **Create File/Folder:** Send a create request with the path and name to the NM.
 
+- 
+
 ### Notes
+
+
+
+![image](https://github.com/user-attachments/assets/223f5a26-e7e7-44f7-8912-ef508eefe9e9)
+
 
 - Ensure that the Naming Server is running before starting Storage Servers and clients.
 - Use the IP address and port provided by the Naming Server to communicate with Storage Servers.
